@@ -1,0 +1,86 @@
+[
+  {
+    "name": "Final Fight",
+    "price": 20,
+    "type": "Adult",
+    "inStock": true,
+    "createdAt": "1993-10-30T08:19:07.861Z"
+  },
+  {
+    "name": "NBA JAM",
+    "price": "45",
+    "type": "Funny",
+    "inStock": true,
+    "createdAt":  "1995-10-30T08:19:07.861Z",
+  },
+  {
+    "name": "The Simpsons",
+    "price": "25",
+    "type": "Educational",
+    "inStock": false,
+    "createdAt":  "2000-10-30T08:19:07.861Z"
+  },
+  {
+    "name": "Outran",
+    "price": "25",
+    "type": "Educational",
+    "inStock": true,
+    "createdAt":  "1988-10-30T08:19:07.861Z"
+  },
+  {
+    "name": "Double Dragon",
+    "price": "15",
+    "type": "Funny",
+    "inStock": false,
+    "createdAt":  "1987-10-30T08:19:07.861Z"
+  },
+  {
+    "name": "Street Fighter 2 ",
+    "price": "55",
+    "type": "Adult",
+    "inStock": true,
+    "createdAt":  "1991-10-30T08:19:07.861Z"
+  },
+  {
+    "name": "MoonWalker 1994",
+    "price": "85",
+    "type": "Educational",
+    "inStock": false,
+    "createdAt":  "1994-10-30T08:19:07.861Z"
+  },
+  {
+    "name": "cadillac and dinosaurs",
+    "price": "55",
+    "type": "Funny",
+    "inStock": true,
+    "createdAt": 1599567966088
+  },
+  {
+    "name": "Golden Axe 1989",
+    "price": "35",
+    "type": "Funny",
+    "inStock": true,
+    "createdAt":  "1989-10-30T08:19:07.861Z"
+  },
+  {
+    "name": "It came from the desert ",
+    "price": "100",
+    "type": "Adult",
+    "inStock": false,
+    "createdAt":  "1979-10-30T08:19:07.861Z"
+  },
+  {
+    "name": "SIm city ",
+    "price": "50",
+    "type": "Educational",
+    "inStock": false,
+    "createdAt": 1599564871756
+  },
+  {
+    "name": "Pubg",
+    "price": "80",
+    "type": "Adult",
+    "inStock": true,
+    "createdAt": 1599564420336
+  }
+]
